@@ -1,6 +1,6 @@
 /**
  * @file        epd_screens.h
- * @brief       Constants for small-sized PS and KS-type EPDs
+ * @brief       Constants for small-sized EPDs
  * @author      Esteban CADIC
  * @version     1.0
  * @date        2024
