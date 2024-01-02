@@ -45,6 +45,8 @@ powerOffCOG(&epd);
 
 This driver only handles the display of screen-size buffers using the globalUpdateDisplay and fastUpdateDisplay functions. A separate GUI library is required (and must be integrated) to use the screen dynamically (LVGL, µGUI...).
 
+Please [find here a STM32CubeIDE demonstration project](https://github.com/Estylos/EPD_SmallSized_Example_HAL/) using a NUCLEO-F303K8 with the EXT3-1 kit and a 2.66" EPD.
+
 ## Related projects and documentation
 - [PDI Wiki](https://docs.pervasivedisplays.com/) 
 - [EPD_Driver_GF_small](https://github.com/PervasiveDisplays/EPD_Driver_GF_small/) : Officiel driver from PDI using the Arduino framework for PS/KS-type small-sized 1.54", 2.13", 2.66", 2.71", 2.87", 2.92", 3.70", 4.17" and 4.37" screens
